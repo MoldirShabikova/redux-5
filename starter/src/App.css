@@ -162,7 +162,7 @@ td {
     opacity: 0.85;
     height: 100%;
     width: 100%;
-    background-color: black;
+    background-color: rgb(45, 144, 184);
 }
 .loader {
     border: 1vw solid var(--magnolia);
